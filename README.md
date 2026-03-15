@@ -13,11 +13,7 @@ A beautiful, feature-rich music player web application built with **React + Vite
 - **Song Statistics** - View total songs, favorites count, and total duration
 
 ### Screenshots 
-![Music App]("s1.jpeg")
 
-![Music App]("s2.jpeg")
-
-![Music App]("s3.jpeg")
 
 ### 🎨 UI/UX Enhancements
 - **Dark/Light Theme Toggle** - Switch between dark and light modes (theme preference saved)
