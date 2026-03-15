@@ -14,7 +14,6 @@ A beautiful, feature-rich music player web application built with **React + Vite
 
 ### Screenshots 
 
-
 ### 🎨 UI/UX Enhancements
 - **Dark/Light Theme Toggle** - Switch between dark and light modes (theme preference saved)
 - **Modern Animations** - Smooth transitions and interactive animations throughout
