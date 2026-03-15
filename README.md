@@ -1,6 +1,6 @@
 # Synthesia - Modern Music Player
 
-A beautiful, feature-rich music player web application built with **React + Vite + Tailwind CSS**.
+A beautiful, feature-rich music player web application built with **React + Vite + Tailwind CSS+MongoDB**.
 
 ## ✨ Features
 
@@ -11,6 +11,9 @@ A beautiful, feature-rich music player web application built with **React + Vite
 - **Now Playing Queue** - See upcoming songs in a dedicated sidebar
 - **Playlist Support** - Organize songs into playlists
 - **Song Statistics** - View total songs, favorites count, and total duration
+
+### Screenshots 
+
 
 ### 🎨 UI/UX Enhancements
 - **Dark/Light Theme Toggle** - Switch between dark and light modes (theme preference saved)
@@ -163,12 +166,6 @@ Customize in `tailwind.config.js` for extended colors and utilities.
 5. ✨ Improved loading states
 6. ✨ Enhanced accessibility features
 
-## 📱 Browser Support
-
-- Chrome/Edge 90+
-- Firefox 88+
-- Safari 14+
-- Modern mobile browsers
 
 ## 🤝 Contributing
 
@@ -183,11 +180,3 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the ISC License - see the LICENSE file for details.
 
-## 🙋‍♂️ Support
-
-For issues, questions, or suggestions, please open an issue on GitHub or contact the development team.
-
----
-
-**Last Updated**: February 7, 2026
-**Version**: 2.0.0
